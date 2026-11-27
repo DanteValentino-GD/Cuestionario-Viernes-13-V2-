@@ -1,0 +1,38 @@
+.h1{
+    color: #ff0000;
+    background-color: #960214;
+    border-radius: 10px;
+}
+.bo{
+    color: white;
+    background-color: lightgray;
+    border-radius: 10px;
+    font-size: 23px;
+    background-image: url(heya.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.icon{
+    border-radius: 30px;
+}
+.button{
+    color: #960214;
+    background-color: #141414;
+    border-color: #555555;
+    font-size: 23px;
+    width: 200px;
+    height: 80px;
+    font-family: Verdana;
+}
+button:hover{
+    color: #141414;
+    background-color: #960214;
+}
+.centered{
+    text-align: center;
+}
+.inside{
+   background-image: url(heya2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
